@@ -13,6 +13,6 @@ function whileLoop(n) {
   while (n > 0) {
     n = parseInt(n) - 1;
     console.log(n);
-    return 'done';
   }
+  return 'done';
 }
